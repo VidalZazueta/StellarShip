@@ -13,17 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:BranchesCache
   cacheType: 2
-  lastUpdatedAtString: 2024-09-27T11:10:32.693-07:00
-  initializedAtString: 2024-09-27T10:49:00.060-07:00
+  lastUpdatedAtString: 2024-09-27T11:51:19.914-07:00
+  initializedAtString: 2024-09-27T11:51:08.983-07:00
   localBranches:
+  - name: main
+    tracking: origin/main
   - name: MapAndPlayer
     tracking: origin/MapAndPlayer
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/main
-    tracking: '[None]'
-  - name: origin/MapAndPlayer
     tracking: '[None]'
   remotes:
   - name: origin
@@ -35,8 +35,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - main
     - MapAndPlayer
     values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/VidalZazueta/StellarShip.git
+      trackingBranch: main
     - name: MapAndPlayer
       remote:
         name: origin
@@ -49,7 +55,6 @@ MonoBehaviour:
     - Values:
       - HEAD
       - main
-      - MapAndPlayer
     subKeyValues:
     - Values:
       - name: HEAD
@@ -58,11 +63,6 @@ MonoBehaviour:
           url: https://github.com/VidalZazueta/StellarShip.git
         trackingBranch: 
       - name: main
-        remote:
-          name: origin
-          url: https://github.com/VidalZazueta/StellarShip.git
-        trackingBranch: 
-      - name: MapAndPlayer
         remote:
           name: origin
           url: https://github.com/VidalZazueta/StellarShip.git

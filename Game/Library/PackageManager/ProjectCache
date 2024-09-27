@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638624115215280360
-    m_Hash: 1779094231
+      ticks: 638630552000848742
+    m_Hash: 512604638
   m_LockFileStatus:
     m_FilePath: C:/Users/vidal/Documents/CS Classes/Fall 2024/CS 4555/Game Project/StellarShip/Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638624115558649371
-    m_Hash: 863343227
+      ticks: 638630552000898599
+    m_Hash: 3219654509
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,69 @@ m_LocalPackages:
 m_ProjectPath: C:/Users/vidal/Documents/CS Classes/Fall 2024/CS 4555/Game Project/StellarShip/Game/Packages
 m_EditorVersion: 2021.3.43f1 (6f9470916942)
 m_ResolvedPackages:
+- packageId: com.spoiledcat.git@1.0.41-preview-g2692419106
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.41-preview-g2692419106
+  source: 1
+  resolvedPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\PackageCache\com.spoiledcat.git@1.0.41-preview-g2692419106
+  assetPath: Packages/com.spoiledcat.git
+  name: com.spoiledcat.git
+  displayName: Git for Unity
+  author:
+    name: 
+    email: shana@spoiledcat.net
+    url: 
+  category: 
+  type: 
+  description: Git for Unity integrates source control into your work with friendly
+    and accessible tools and workflows.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.9
+    - 1.0.11
+    - 1.0.12
+    - 1.0.18
+    - 1.0.27
+    - 1.0.40-preview-g76bbfc3dc1
+    - 1.0.41-preview-g2692419106
+    compatible:
+    - 1.0.9
+    - 1.0.11
+    - 1.0.12
+    - 1.0.18
+    - 1.0.27
+    - 1.0.40-preview-g76bbfc3dc1
+    - 1.0.41-preview-g2692419106
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: scoped:project:spoiledcat
+    name: spoiledcat
+    url: https://registry.spoiledcat.com
+    scopes:
+    - com.spoiledcat
+    isDefault: 0
+    capabilities: 0
+    configSource: 4
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638615795806590000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+ssh://git@github.com/spoiledcat/git-for-unity.git
+    revision: 26924191065af5cfa78c0575bb897bc4d9cb9e06
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
 - packageId: com.unity.collab-proxy@2.4.4
   testable: 0
   isDirectDependency: 1
@@ -118,9 +181,11 @@ m_ResolvedPackages:
     - 2.4.3
     - 2.4.4
     - 2.5.1
+    - 2.5.2
     compatible:
     - 2.4.4
     - 2.5.1
+    - 2.5.2
     verified: 2.4.4
   dependencies: []
   resolvedDependencies: []

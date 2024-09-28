@@ -353,6 +353,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/CameraController.cs"
 "Assets/Scripts/DoSomething.cs"
+"Assets/Scripts/Hello.cs"
 "Assets/Scripts/Interactor.cs"
 "Assets/Scripts/PlayerController.cs"
 -langversion:9.0

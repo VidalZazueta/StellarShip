@@ -351,9 +351,9 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Interactor.cs"
 "Assets/Scripts/CameraController.cs"
-"Assets/Scripts/InteractionSystem/Interactor.cs"
+"Assets/Scripts/DoSomething.cs"
+"Assets/Scripts/Interactor.cs"
 "Assets/Scripts/PlayerController.cs"
 -langversion:9.0
 /deterministic

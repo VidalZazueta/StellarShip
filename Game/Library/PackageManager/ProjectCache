@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638630552000848742
-    m_Hash: 512604638
+      ticks: 638630964000590750
+    m_Hash: 413101054
   m_LockFileStatus:
     m_FilePath: C:/Users/vidal/Documents/CS Classes/Fall 2024/CS 4555/Game Project/StellarShip/Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638630552000898599
-    m_Hash: 3219654509
+      ticks: 638630964000600722
+    m_Hash: 2302003544
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:

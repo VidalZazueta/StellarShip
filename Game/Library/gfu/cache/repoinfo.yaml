@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:RepositoryInfoCache
   cacheType: 1
-  lastUpdatedAtString: 2024-09-27T22:00:53.913-07:00
-  initializedAtString: 2024-09-27T22:00:53.913-07:00
+  lastUpdatedAtString: 2024-09-27T22:03:08.403-07:00
+  initializedAtString: 2024-09-27T22:03:08.403-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/VidalZazueta/StellarShip.git
@@ -35,4 +35,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/VidalZazueta/StellarShip.git
-  currentHead: 4a88d139
+  currentHead: 36fac1ce

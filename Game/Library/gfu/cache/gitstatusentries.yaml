@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:GitStatusCache
   cacheType: 6
-  lastUpdatedAtString: 2024-09-27T22:01:36.407-07:00
-  initializedAtString: 2024-09-27T22:00:54.678-07:00
+  lastUpdatedAtString: 2024-09-27T22:03:36.518-07:00
+  initializedAtString: 2024-09-27T22:03:09.143-07:00
   entries:
   - path: Game\Library\ArtifactDB
     fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\ArtifactDB
@@ -22,39 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game\Library\Bee\1900b0aE.dag
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\Bee\1900b0aE.dag
-    projectPath: Library\Bee\1900b0aE.dag
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Library\Bee\1900b0aE.dag.json
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\Bee\1900b0aE.dag.json
-    projectPath: Library\Bee\1900b0aE.dag.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Library\Bee\1900b0aE.dag_fsmtime
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\Bee\1900b0aE.dag_fsmtime
-    projectPath: Library\Bee\1900b0aE.dag_fsmtime
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Game\Library\Bee\backend_profiler0.traceevents
     fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\Bee\backend_profiler0.traceevents
     projectPath: Library\Bee\backend_profiler0.traceevents
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Library\Bee\backend_profiler1.traceevents
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\Bee\backend_profiler1.traceevents
-    projectPath: Library\Bee\backend_profiler1.traceevents
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Library\Bee\buildprogram0.traceevents
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\Bee\buildprogram0.traceevents
-    projectPath: Library\Bee\buildprogram0.traceevents
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -82,18 +52,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Game\Library\Bee\TundraBuildState.state.map
+    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\Bee\TundraBuildState.state.map
+    projectPath: Library\Bee\TundraBuildState.state.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Game\Library\EditorInstance.json
     fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Game\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -118,33 +88,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game\Library\PackageCache\com.unity.visualscripting@1.9.4\.signature
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\PackageCache\com.unity.visualscripting@1.9.4\.signature
-    projectPath: Library\PackageCache\com.unity.visualscripting@1.9.4\.signature
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Library\PackageManager\ProjectCache
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Library\PackageManager\ProjectCache.md5
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Game\Library\SceneVisibilityState.asset
     fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Library\Search\transactions.db
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\Search\transactions.db
-    projectPath: Library\Search\transactions.db
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -154,21 +100,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game\Library\SourceAssetDB-lock
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Library\SourceAssetDB-lock
-    projectPath: Library\SourceAssetDB-lock
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Game\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game\Temp\FSTimeGet-4cc9e76e4959e2046aa7f05ae1743c28
-    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Temp\FSTimeGet-4cc9e76e4959e2046aa7f05ae1743c28
-    projectPath: Temp\FSTimeGet-4cc9e76e4959e2046aa7f05ae1743c28
+  - path: Game\Temp\FSTimeGet-d033c04db7374fb4897135d1bf79a213
+    fullPath: C:\Users\vidal\Documents\CS Classes\Fall 2024\CS 4555\Game Project\StellarShip\Game\Temp\FSTimeGet-d033c04db7374fb4897135d1bf79a213
+    projectPath: Temp\FSTimeGet-d033c04db7374fb4897135d1bf79a213
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

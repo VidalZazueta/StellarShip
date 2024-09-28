@@ -1510,3 +1510,35 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 915.877950 seconds.
+  path: Assets/Materials/npc.mat
+  artifactKey: Guid(1e5aa040e5150465e9947fd9c631ec63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/npc.mat using Guid(1e5aa040e5150465e9947fd9c631ec63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8db7006dfcb98c16a1c80f700dd40c2') in 0.333149 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 23.832558 seconds.
+  path: Assets/Materials/Stage.mat
+  artifactKey: Guid(307b7cc3d1f76482fb59f196e3d7c078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Stage.mat using Guid(307b7cc3d1f76482fb59f196e3d7c078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e373771c6beb8d5c20a7912e5e8d17bf') in 0.012492 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 35.176557 seconds.
+  path: Assets/Materials/Platforms.mat
+  artifactKey: Guid(3c7f497a6ecf7454f9cd0fb3391223ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Platforms.mat using Guid(3c7f497a6ecf7454f9cd0fb3391223ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f22d454941718f43ea5013335d960153') in 0.020032 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 29.730130 seconds.
+  path: Assets/Materials/Dabloons.mat
+  artifactKey: Guid(f297941aa5eea4a9083c5658a9c9f413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Materials/Dabloons.mat using Guid(f297941aa5eea4a9083c5658a9c9f413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c801b9bdef4f385ea161023e277abb73') in 0.006280 seconds 
+Number of asset objects unloaded after import = 1
